@@ -41,10 +41,3 @@ def misol():
             ask_q = input("What would you like to do?+|-|*|/|")
             z = True
 misol()
-
-
-
-
-
-
-0
