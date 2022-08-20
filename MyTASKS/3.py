@@ -1,4 +1,4 @@
-def misol():
+class misol():
     x = True
     ask_1 = input("Please add 1 number: ")
     while x:
@@ -41,10 +41,3 @@ def misol():
             ask_q = input("What would you like to do?+|-|*|/|")
             z = True
 misol()
-
-
-
-
-
-
-0
