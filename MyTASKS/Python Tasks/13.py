@@ -11,9 +11,17 @@ for i in range(len(a)):
     elif a[i-1] < a[i] > a[i+1]:
         print(a[i])
         num = num + 1
-    else:
-        pass
 print(num)
+
+count = 0
+list_ = []
+for z in range(10):
+    list_.append(randint(1,100))
+print(list_)
+for i in range(1,len(list_)-1):
+    if list_[i] > list_[i+1] and list_[i] > list_[i-1]:
+        count +=1
+print(count)
 
 
 
