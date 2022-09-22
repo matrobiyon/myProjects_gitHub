@@ -1,0 +1,38 @@
+[
+  {
+    "salesman_id": 5001,
+    "name": "James Hoog",
+    "city": "New York",
+    "comission": "0.15"
+  },
+  {
+    "salesman_id": 5002,
+    "name": "Nail Knite",
+    "city": "Paris",
+    "comission": "0.13"
+  },
+  {
+    "salesman_id": 5003,
+    "name": "Lauson Hen",
+    "city": "San Jose",
+    "comission": "0.12"
+  },
+  {
+    "salesman_id": 5004,
+    "name": "Paul Adam",
+    "city": "Rome",
+    "comission": "0.13"
+  },
+  {
+    "salesman_id": 5005,
+    "name": "Mc Lyon",
+    "city": "Paris",
+    "comission": "0.14"
+  },
+  {
+    "salesman_id": 5006,
+    "name": "Pit Alex",
+    "city": "London",
+    "comission": "0.11"
+  }
+]
