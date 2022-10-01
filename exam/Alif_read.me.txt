@@ -1,0 +1,17 @@
+Hello Alif !)
+The commands for runnig the app:
+----------------------------------------------------------
+dobavit
+izmenit
+udalit
+summa
+----------------------------------------------------------
+The consoleCommand.py is located at "anotherBranch",
+I haven't merged it because it needs some fixings 
+----------------------------------------------------------
+Please note that I have done it for a short period of time,
+that's why I haven't EDITED the DUBLICATING codes. 
+----------------------------------------------------------
+Thanks for wasting your time))
+----------------------------------------------------------
+With Regarding                    <Matrobiyon Qosim>
